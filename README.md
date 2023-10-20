@@ -3,7 +3,7 @@
 
 GUI/validation : [4udoman](https://github.com/4udoman)
 
-Обработка вычислений: [Sergey](https://github.com/sergey31415926)
+Обработка вычислений (algorithm.py, utils.py): [Sergey](https://github.com/sergey31415926)
 
 ### Установка необходимых пакетов
 
